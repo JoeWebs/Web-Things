@@ -1,0 +1,66 @@
+.alt1 {
+	background: #898989;
+	min-height: 400px;
+}
+
+p {
+	color: black;
+}
+
+ul {
+	color: black;
+}
+
+#copyright {
+	color: black;
+	font-weight: bold;
+}
+
+#about {
+	background-color: #cc666f;
+	padding: 3px;
+}
+
+#what {
+	background-color: #cc666f;
+	padding: 3px;	
+}
+
+#contact {
+	background-color: #cc666f;
+	padding: 3px;
+}
+
+#what2 {
+	background-color: #cc666f;
+	padding: 3px;
+}
+
+#what3 {
+	background-color: #cc666f;
+	padding: 3px;
+}
+
+#question {
+	background-color: #cc666f;
+	padding: 3px;
+}
+
+#business {
+	color: black;
+	font-weight: bold;
+}
+
+#footer {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#infocontain {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#ul3 {
+	list-style: decimal;
+}
