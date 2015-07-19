@@ -1,3 +1,7 @@
+body {
+	background-color: #898989;
+}
+
 .alt1 {
 	background: #898989;
 	min-height: 400px;
@@ -17,32 +21,47 @@ ul {
 }
 
 #about {
-	background-color: #cc666f;
+	background-color: #FF6A00;
 	padding: 3px;
 }
 
+#aboutp {
+	background-color: #00B7B7;
+	padding: 5px;
+}
+
 #what {
-	background-color: #cc666f;
+	background-color: #FF6A00;
 	padding: 3px;	
 }
 
+#whatp {
+	background-color: #00B7B7;
+	padding: 5px;
+}
+
 #contact {
-	background-color: #cc666f;
+	background-color: #FF6A00;
 	padding: 3px;
 }
 
 #what2 {
-	background-color: #cc666f;
+	background-color: #FF6A00;
 	padding: 3px;
 }
 
+#do {
+	background-color: #00B7B7;
+	padding: 5px;
+}
+
 #what3 {
-	background-color: #cc666f;
+	background-color: #FF6A00;
 	padding: 3px;
 }
 
 #question {
-	background-color: #cc666f;
+	background-color: #FF6A00;
 	padding: 3px;
 }
 
@@ -61,6 +80,17 @@ ul {
 	padding-bottom: 10px;
 }
 
+#ul1 {
+	list-style-type: none;
+	background-color: #00B7B7;
+}
+
+#ul2 {
+	list-style-type: square;
+	background-color: #00B7B7;
+}
+
 #ul3 {
 	list-style: decimal;
+	background-color: #00B7B7;
 }
