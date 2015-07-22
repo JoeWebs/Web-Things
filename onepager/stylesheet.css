@@ -1,5 +1,6 @@
+/*Classes*/
 body {
-	background-color: #898989;
+
 }
 
 .alt1 {
@@ -15,29 +16,32 @@ ul {
 	color: black;
 }
 
-#copyright {
+#all{
+	background-color: #898989;
+
+}
+/*End of classes*/
+
+
+/*Header things*/
+#pagehead {
+	padding-left: 0;
+	background-color: #898989;
+	margin-bottom: auto;
+	text-align: center;
+}
+
+#pagetitle {
 	color: black;
-	font-weight: bold;
-}
-
-#about {
-	background-color: #FF6A00;
-	padding: 3px;
-}
-
-#aboutp {
-	background-color: #00B7B7;
 	padding: 5px;
-}
-
-#what {
+	border: solid #FF6A00;
+	border-radius: 5px;
+	display: inline-block;
 	background-color: #FF6A00;
-	padding: 3px;	
 }
 
-#whatp {
-	background-color: #00B7B7;
-	padding: 5px;
+#small {
+	color: black;
 }
 
 #contact {
@@ -65,14 +69,68 @@ ul {
 	padding: 3px;
 }
 
+#about {
+	background-color: #FF6A00;
+	padding: 3px;
+}
+
+#require {
+	background-color: #FF6A00;
+	padding: 3px;
+}
+
+#tips {
+	background-color: #FF6A00;
+	padding: 3px;
+}
+
+#what {
+	background-color: #FF6A00;
+	padding: 3px;	
+}
+
 #business {
 	color: black;
 	font-weight: bold;
 }
 
-#footer {
-	padding-top: 10px;
-	padding-bottom: 10px;
+#upcoming {
+	background-color: #FF6A00;
+	padding: 3px;
+}
+/*End of header things*/
+
+/*Content things*/
+#requirep {
+	background-color: #00B7B7;
+	padding-left: 0px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+#tipsp {
+	background-color: #00B7B7;
+	padding: 5px;
+}
+
+#aboutp {
+	background-color: #00B7B7;
+	padding: 5px;
+}
+
+#whatp {
+	background-color: #00B7B7;
+	padding: 5px;
+}
+
+#upc {
+	background-color: #00B7B7;
+	padding: 5px;
+}
+
+#btmrow {
+	padding-bottom: 20px;
 }
 
 #infocontain {
@@ -94,3 +152,37 @@ ul {
 	list-style: decimal;
 	background-color: #00B7B7;
 }
+
+#ul4 {
+	list-style-type: square;
+	background-color: #00B7B7;
+	padding-top: 0px;	
+}
+/*End of content things*/
+
+/*Footer things*/
+#copyright {
+	color: black;
+	font-weight: bold;
+}
+
+#footer {
+	background-color: white;
+	width: 100%;
+	z-index: 1;
+	bottom: 0; 
+	left: 0;
+	right: 0;
+	position: fixed;
+	border: solid white;
+	border-radius: 5px;
+}
+
+#twitter {
+	text-align: right;
+}
+
+#twitch {
+	text-align: right;
+}
+/*End of footer things*/
