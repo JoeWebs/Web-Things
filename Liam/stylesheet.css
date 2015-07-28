@@ -1,0 +1,182 @@
+#body {
+	background: linear-gradient(#A8A8A8, #7A7A7A);
+	height: 655px;
+}
+
+#body2 {
+	height: 1000px;
+	background: linear-gradient(#A8A8A8, #7A7A7A);
+}
+
+#body3 {
+	height: auto;
+	background: linear-gradient(#A8A8A8, #7A7A7A);
+}
+
+#foot {
+	color: white;
+	margin: 0px;
+	padding: 0px;
+}
+
+#BTT {
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+#BTT a {
+	color: orange;
+	font-weight: bold;
+}
+
+/*Start info*/
+
+#info1 {
+	background-color: #CECECE;
+	margin: 0px;
+}
+
+#info1p {
+	color: black;
+	font-weight: bold;
+	margin: 0px;
+}
+
+#info2 {
+	background-color: #CECECE;
+	margin: 0px;
+}
+
+#info2p {
+	color: black;
+	font-weight: bold;
+	margin: 0px;
+}
+
+/*End info*/
+
+/*List things */
+#A {
+	list-style-type: none;
+	font-weight: bold;
+	color: black;
+	margin: 0px;
+}
+
+#links2 {
+	list-style-type: none;
+	font-weight: bold;
+	margin: 0px;
+	width: 300px;
+	padding-left: 10px;
+}
+
+#keiron {
+	width: 100px;
+	height: 100px;
+}
+
+#Kbio {
+	padding-top: 5px;
+}
+
+#joe {
+	width: 100px;
+	height: 100px;	
+}
+
+#TK {
+	width: 100px;
+	height: 100px;
+}
+
+#steve {
+	width: 100px;
+	height: 100px;
+}
+
+#james {
+	width: 100px;
+	height: 100px;
+}
+
+#dorset {
+	width: 100px;
+	height: 100px;
+}
+
+#G {
+	width: 100px;
+	height: 100px;
+}
+
+#dyn {
+	width: 100px;
+	height: 100px;
+}
+
+#steel {
+	width: 100px;
+	height: 100px;
+}
+
+#vis {
+	width: 100px;
+	height: 100px;
+}
+
+#red {
+	width: 100px;
+	height: 100px;
+}
+
+#black {
+	width: 100px;
+	height: 100px;
+}
+
+#green {
+	width: 100px;
+	height: 100px;
+}
+
+#MG {
+	width: 100px;
+	height: 100px;
+}
+
+/*End list things*/
+
+#name {
+	color: white;
+	padding-top: 15px;
+}
+
+/*Panel titles*/
+
+#title1 {
+	background-color: #C6C6C6;
+	padding-left: 5px;
+	color: black;
+}
+
+#title2 {
+	background-color: #C6C6C6;
+	padding-left: 5px;
+	color: black;
+}
+
+/*End titles*/
+
+/*Video Things*/
+
+#VR2 {
+	padding-top: 10px;
+}
+
+#VR3 {
+	padding-top: 10px;
+	padding-bottom: 25px;
+}
+
+/*End Video things*/
