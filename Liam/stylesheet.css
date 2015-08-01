@@ -13,6 +13,16 @@
 	background: linear-gradient(#A8A8A8, #7A7A7A);
 }
 
+#body4 {
+	height: auto;
+	background: linear-gradient(#A8A8A8, #7A7A7A);
+}
+
+#body5 {
+	height: auto;
+	background: linear-gradient(#A8A8A8, #7A7A7A);	
+}
+
 #foot {
 	color: white;
 	margin: 0px;
@@ -29,11 +39,35 @@
 	font-weight: bold;
 }
 
+#homeheadtext {
+	padding-left: 10px;
+}
+
+#streamheadtext {
+	padding-left: 10px;
+}
+
+#musicheadtext {
+	padding-left: 10px;
+}
+
+#socialheadtext {
+	padding-left: 10px;
+}
+
+#contactheadtext {
+	padding-left: 10px;
+}
+
 /*Start info*/
 
 #info1 {
 	background-color: #CECECE;
 	margin: 0px;
+}
+
+#info1contain {
+	padding-bottom: 10px;
 }
 
 #info1p {
@@ -56,10 +90,21 @@
 /*End info*/
 
 /*List things */
+
+#email {
+	font-weight: bold;
+}
+
 #A {
 	list-style-type: none;
 	font-weight: bold;
 	color: black;
+	margin: 0px;
+}
+
+#social {
+	list-style-type: none;
+	font-weight: bold;
 	margin: 0px;
 }
 
@@ -145,6 +190,21 @@
 	height: 100px;
 }
 
+#truck {
+	width: 100px;
+	height: 100px;
+}
+
+#jay {
+	width: 100px;
+	height: 100px;
+}
+
+#adie {
+	width: 100px;
+	height: 100px;
+}
+
 /*End list things*/
 
 #name {
@@ -166,6 +226,36 @@
 	color: black;
 }
 
+#homehead {
+	background-color: #C6C6C6;
+	border: solid black;
+	border-radius: 10px;
+}
+
+#streamhead {
+	background-color: #C6C6C6;
+	border: solid black;
+	border-radius: 10px;
+}
+
+#musichead {
+	background-color: #C6C6C6;
+	border: solid black;
+	border-radius: 10px;
+}
+
+#socialhead {
+	background-color: #C6C6C6;
+	border: solid black;
+	border-radius: 10px;	
+}
+
+#contacthead {
+	background-color: #C6C6C6;
+	border: solid black;
+	border-radius: 10px;	
+}
+
 /*End titles*/
 
 /*Video Things*/
@@ -177,6 +267,22 @@
 #VR3 {
 	padding-top: 10px;
 	padding-bottom: 25px;
+}
+
+#video1 {
+	padding-bottom: 10px;
+}
+
+#video2 {
+	padding-bottom: 10px;
+}
+
+#video3 {
+	padding-bottom: 10px;
+}
+
+#video4 {
+	padding-bottom: 10px;
 }
 
 /*End Video things*/
