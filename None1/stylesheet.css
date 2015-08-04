@@ -5,14 +5,22 @@
 /*End body thing*/
 
 /*Header things*/
-
+#name {
+	color: white;
+	padding-top: 12px;
+}
 
 
 /*End header things*/
 
 /*Content things*/
+#player {
+	padding-right: 15px;
+}
 
-
+#panels {
+	padding-bottom: 10px;
+}
 
 /*End content things*/
 
@@ -24,6 +32,13 @@
 
 /*Footer things*/
 
+#foot {
+	padding-top: 15px;
+}
 
+#footer {
+	color: black;
+	font-weight: bold;
+}
 
 /*End footer things*/

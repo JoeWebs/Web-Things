@@ -66,8 +66,12 @@
 	margin: 0px;
 }
 
+#everything {
+	padding-bottom: 20px;
+}
+
 #info1contain {
-	padding-bottom: 10px;
+	
 }
 
 #info1p {
@@ -259,6 +263,12 @@
 /*End titles*/
 
 /*Video Things*/
+
+#player {
+	padding-right: 0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
 
 #VR2 {
 	padding-top: 10px;
