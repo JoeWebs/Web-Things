@@ -1,25 +1,67 @@
 /*Body thing*/
 
+#everything {
+	background: linear-gradient(#00FF00, white);
+}
 
 
 /*End body thing*/
 
 /*Header things*/
 #name {
-	color: white;
+	color: #00FF00;
 	padding-top: 12px;
 }
 
+#navbarhead {
+	padding-bottom: 0px;
+}
+
+#brand {
+	color: #00FF00;
+}
+
+#navbar {
+	margin-bottom: 12px;
+}
 
 /*End header things*/
 
 /*Content things*/
 #player {
-	padding-right: 15px;
+	padding-bottom: 10px;
+}
+
+#chat {
+	padding-bottom: 10px;
 }
 
 #panels {
 	padding-bottom: 10px;
+}
+
+#about {
+	background: linear-gradient(#696969, white);
+	color: black;
+	font-weight: bold;
+}
+
+#faq {
+	background: linear-gradient(#696969, white);
+	color: black;
+	font-weight: bold;
+}
+
+#plain {
+	background: linear-gradient(#696969, white);
+	color: black;
+	font-weight: bold;
+}
+
+#sites {
+	background: linear-gradient(#696969, white);
+	color: black;
+	font-weight: bold;
 }
 
 /*End content things*/
@@ -34,10 +76,11 @@
 
 #foot {
 	padding-top: 15px;
+	margin-bottom: 0px;
 }
 
 #footer {
-	color: black;
+	color: #00FF00;
 	font-weight: bold;
 }
 
