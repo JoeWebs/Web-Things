@@ -7,6 +7,14 @@
 	text-align: center;
 }
 
+#contain {
+	z-index: -1;
+}
+
+#contain-2 {
+	z-index: 1;
+}
+
 #panel1 {
 	background: linear-gradient(#898989, #ADADAD);
 	border-width: 0px;
