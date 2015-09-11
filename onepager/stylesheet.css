@@ -161,6 +161,14 @@ ul {
 /*End of content things*/
 
 /*Footer things*/
+
+#form {
+	text-align: center;
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+}
+
 #copyright {
 	color: black;
 	font-weight: bold;
